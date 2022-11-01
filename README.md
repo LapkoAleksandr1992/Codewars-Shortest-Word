@@ -1,0 +1,1 @@
+# Codewars-Shortest-Word
